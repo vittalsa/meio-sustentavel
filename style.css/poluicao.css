@@ -68,6 +68,13 @@ main {
     margin-bottom: 25px;
 }
 
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
 footer {
     background-color: #333;
     color: white;

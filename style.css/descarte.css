@@ -65,6 +65,8 @@ img {
     justify-content: center;
     align-items: center;
     height: 70vh;
+    width: 750px;
+    margin: auto;
 }
 
 footer {
